@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @varunsinghal7
 - 👀 I’m interested in web development and data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Web development projects
+- 📫 How to reach me email - varuns4533@gmail.com
+
 
 <!---
 varunsinghal7/varunsinghal7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
