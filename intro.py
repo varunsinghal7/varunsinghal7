@@ -1,2 +1,1 @@
-print("Hello!, my name is Varun Singhal")
-print("I am currently learning Python and Web development. I am also interested in Data Science and Data analytics")
+print("Hello!, my name is Varun Singhal.I am currently learning Python and Web development. I am also interested in Data Science and Data Analytics. I also like to work on creating visually appealing dashboards using technologies like PowerBI and Tableau.")
