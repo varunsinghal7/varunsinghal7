@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me email - varuns4533@gmail.com
+- You can reach me at my LinkedIn - https://www.linkedin.com/in/varun-singhal-144102230/
 
 
 <!---
